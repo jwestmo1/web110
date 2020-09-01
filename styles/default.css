@@ -1,0 +1,71 @@
+body
+{
+  /* you better change this stuff */
+  margin: 30px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #2cdabf;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+
+header{
+	color: #FF69B4;
+}
+
+
+nav {
+	display: block;
+	}
+
+nav a {
+	color: white;
+	text-decoration: none;
+	padding: 0 5%;
+	margin-bottom: 8%;
+}
+nav a:visited {
+	color: white;
+}
+nav a:hover {
+	background-color: white;
+	color: #FF69B4;
+}
+nav a:focus {
+	outline: thin dotted;
+}
+nav a:hover, nav a:active {
+	outline: 0;
+}
+
+
+
+main p {
+  font-family: 'Sacramento', cursive;
+  text-align: left;
+}
+
+#weblinks {
+	text-align: center;
+}
+
+ul {
+	text-align: left;
+}
+
+footer img{
+  height: 31px;
+  width: 88px;
+}
+
+footer {
+  padding-top: 5px;
+	width: 100%;
+	height: 30px;
+  font-size: 10px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: -10px;
+  letter-spacing: 2px;
+  text-align: center;
+}
